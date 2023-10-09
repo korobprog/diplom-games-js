@@ -1,6 +1,5 @@
-# Event Goblin
+# Heroes of Might and Magic
 
-DEMO <https://korobprog.github.io/event-goblin/>
+DEMO Diploma 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/amktomvchqwnqpru?svg=true)](https://ci.appveyor.com/project/korobprog/event-goblin)
 
